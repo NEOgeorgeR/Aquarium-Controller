@@ -14,3 +14,5 @@ Relay2 - turns ON when a set temperature (81 degrees F) is detected, and OFF whe
 Relay3 - 50% dutycycle ON/OFF, set at 30 minutes
 
 Relay4 - Pump power: pumps are turned off for feeding when an external button is pressed
+
+v1.3beta adds Bluetooth functionality, that along with the new Android app, allows you to set alarm times and temperature set points from you phone or tablet.
